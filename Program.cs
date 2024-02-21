@@ -1,8 +1,23 @@
 ﻿
 using System;
+using System.Diagnostics;
 
 namespace VisualStudioTips
 {
+    public class CodeAssistent
+    {
+        private readonly DateTime dateTime;
+
+        public CodeAssistent(DateTime dateTime)
+        {
+            this.dateTime = dateTime;
+        }
+
+        public void Sample()
+        {
+            
+        }
+    }
     class Program
     {
         static void Main(string[] args)

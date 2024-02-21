@@ -8,7 +8,7 @@ namespace VisualStudioTips
         {
             // Put the cursor at the beginning of this line. Use Ctrl and Right Arrow to move the cursor one word to the right.
             // Or Ctrl and Left Arrow to move the cursor one word to the left.
-            Console.WriteLine("Hello, World");
+            Console.WriteLine("Hello, Ninja");
 
             // Put the cursor at the beginning of this line. Press End to move the cursor to the end of the line. Then press Home
             // to move the cursor to the beginning of the line.

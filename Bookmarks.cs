@@ -14,6 +14,14 @@ namespace VisualStudioTips
             // to "Requires Refactoring". You can use this technique to put bookmarks in various part of the code to remind you that
             // you should get back there and do something. 
             System.Console.WriteLine("Hello, World");
+            /*Ctrl+K, Ctrl+K - Toggle Bookmark
+
+Ctrl+K, Ctrl+N - Navigate to Next Bookmark
+
+Ctrl+K, Ctrl+P - Navigate to Previous Bookmark
+
+Ctrl+K, Ctrl+W - Open Bookmark Window
+            */
         }
     }
 }

@@ -4,11 +4,14 @@ namespace VisualStudioTips
     public class CodeSnippets
     {
         // Put the cursor here and type "ctor" and then press the Tab. This will create a constructor for this class.
-
-
+        public CodeSnippets()
+        {
+            
+        }
 
 
         // Now put the cursor here and type "prop" and then press the Tab. This will create an auto-implemented property.
+        public string name { get; set; }
         // Note that the "type" is highlighted. Type in "string" and press the Tab. Now you can type a name for this property.
         // Then press the Tab or Enter to finish editing. 
 

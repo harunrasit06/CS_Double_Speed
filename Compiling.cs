@@ -17,6 +17,7 @@ namespace VisualStudioTips
 
             // Because you removed semicolons you see two errors now. Press F8 to go to the next error. Fix the error and press F8 again. It's faster
             // than using the mouse to double-click in the errors window.
-        }
+        
+                }
     }
 }
